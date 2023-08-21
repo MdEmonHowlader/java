@@ -1,6 +1,6 @@
-public class Method1 {
+public class MethodMax {
     public static void main(String[] args) {
-        Method1 obj=new Method1();
+        MethodMax obj=new MethodMax();
         int a=12;
         int b=15;
         int c=obj.max(a,b);
