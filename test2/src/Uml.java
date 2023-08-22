@@ -6,7 +6,6 @@ public class Uml {
     
     return 0;
    }
-
     public static void main(String[] args) {
         Uml std1 = new Uml();
         std1.dept = "CSE";
