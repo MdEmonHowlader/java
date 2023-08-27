@@ -1,11 +1,10 @@
 package test4;
-
-public class AllCodeTest {
+//Constructor.....
+public class Constr {
     int x;
-
     public static void main(String[] args) {
-        AllCodeTest myObj= new AllCodeTest();
-
+        Constr myObj=new Constr();
         System.out.println(myObj.x);
     }
 }
+
