@@ -1,11 +1,11 @@
 package test3.Project;
 
-import java.io.PrintStream;
+
 
 import java.util.*;
 
 public class BankManag {
-    PrintStream out = new PrintStream(System.out);
+   
 
    
     public static void main(String[] args) {
