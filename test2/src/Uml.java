@@ -1,11 +1,12 @@
 public class Uml {
-    private int id;
+    private String id;
     private String dept;
-    protected float cgpa;
+    private double cgpa;
    public int pass(){
     
     return 0;
    }
+   
     public static void main(String[] args) {
         Uml std1 = new Uml();
         std1.dept = "CSE";
