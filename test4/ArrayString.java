@@ -1,8 +1,6 @@
 package test4;
 
-import java.util.Arrays;
-
-public class Array {
+public class ArrayString {
     public static void main(String[] args) {
         int[] num={2,3,6,5};
         String[] name={"Emon, limon, emon1"};
@@ -12,8 +10,5 @@ public class Array {
         for(int j=0; j<name.length; j++){
             System.out.println(name[j]);
         }
-        //System.out.println(Arrays.deepToString(name));
-        
     }
-    
 }
