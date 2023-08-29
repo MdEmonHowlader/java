@@ -1,17 +1,11 @@
-
 package test4;
-import java.util.ArrayList;
+
+import java.util.Arrays;
 
 public class Array {
     public static void main(String[] args) {
-        int[][] make={{2,3,45,44},
-        {3,34,6,9}};
-        for(int i=0; i<=make.length; i++){
-            for(int j=0; j<make[i].length; j++){
-                  System.out.println(make[i][j]);
-            }
-          
-        }
+        int[] num={2,3,6,5};
+        System.out.println(Arrays.toString(num));
     }
     
 }
