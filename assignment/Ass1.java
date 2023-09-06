@@ -1,13 +1,14 @@
-package test4;
+package assignment;
+
 
 public class Ass1{
     
         public static void main(String[] args) {
                 String name = "Md.Emon";
                 String id = "0242220005101732";
-                String address = "";
-                String department = "Your Department";
-                String favoriteGame = "Your Favorite Game";
+                String address = "Barishal";
+                String department = "Bsc. in. CSE";
+                String favoriteGame = "8 Ball Pool";
         
                 // Print your information
                 System.out.println("Name: " + name);
