@@ -1,6 +1,6 @@
 package test4;
 //Ans to Q no-1;
-import java.util.*;
+import java.util.Scanner;
 
 public class One{
     static int myMethod(int s, int c){
