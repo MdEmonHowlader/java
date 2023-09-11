@@ -4,7 +4,7 @@ public class Programmer extends Inheritance {
     public static void main(String[] args) {
         Programmer p=new Programmer();
         System.out.println("Salary: "+p.salary);
-        System.out.println(""p.name);
-        System.out.println(p.Dep);
+        System.out.println("Name: "+p.name);
+        System.out.println("Dep: "+p.Dep);
         }
 }
