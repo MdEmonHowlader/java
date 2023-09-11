@@ -5,5 +5,6 @@ public class Programmer extends Inheritance {
         Programmer p=new Programmer();
         System.out.println(p.salary);
         System.out.println(p.name);
+        System.out.println(p.Dep);
         }
 }
