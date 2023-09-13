@@ -1,8 +1,9 @@
 package test4;
+
 import java.util.Scanner;
 
-public class AllCodeTest{
-
+public class ArrayUserData {
+    
    public static void main(String[] args){
         Scanner myObj= new Scanner(System.in);
         int n;
@@ -29,12 +30,5 @@ public class AllCodeTest{
 
 
    }
-  
+    
 }
-               
-
-      
-        
-    
-
-    
