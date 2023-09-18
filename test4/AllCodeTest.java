@@ -6,10 +6,8 @@ public class AllCodeTest{
         public AllCodeTest(){
                  this.hight=14;
                  this.id=658;
-
         }
-
-   public static void main(String[] args){
+        public static void main(String[] args){
         AllCodeTest myObj=new AllCodeTest();
         System.out.println(myObj.hight);
 
