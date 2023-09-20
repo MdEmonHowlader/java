@@ -1,15 +1,18 @@
 package test6;
-import java.util.*;
 public class Lion extends Animal {
     String name ="Lion";
-
-    Animal g =new Animal();
     
-    public void makeSound() {
-
-        g.sleep();
-        System.out.println(name+ " Sound: Roar!"); // Specific sound for a lion
+    public void makeSound(){
+        System.out.println(name+ " Sound: Roar!"); 
     }
-   
-
+   public static void main(String[] args) {
+        Lion go =new Lion();
+        go.eat("Lion");
+        System.out.println("Lion eat name: Taste");
+         go.sleep("Lion");
+        Animal e1= new Animal();
+        e1.makeSound();
+        go.makeSound();
+       
+   }
 }

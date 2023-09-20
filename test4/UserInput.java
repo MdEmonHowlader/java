@@ -14,7 +14,7 @@ public class UserInput {
         }
         System.out.println("Enter your array Data: ");
         for(int i=0; i<inputData; i++){
-            Arrays.sort[inputArray];
+            Arrays.sort(inputArray);
             System.out.println(inputArray[i]);
         }
     }

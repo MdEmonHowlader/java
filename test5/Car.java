@@ -5,7 +5,7 @@ package test5;
         
         public Car(int j){
 
-              super(j);
+            super(j);
             System.out.println(speed);
             this.speed=j*20;
              
