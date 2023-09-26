@@ -5,6 +5,9 @@ public class Emon extends Emon1{
        Emon sc= new Emon();
        System.out.println("Name:"+ sc.name);
        sc.test();
+
+       System.out.println("BMW color is black");
+       System.out.println("My Name Emon");
     }
 
 }
